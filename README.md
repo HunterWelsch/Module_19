@@ -1,5 +1,3 @@
-# Module_19
-
 ## Overview 
 Using a neural network to create a binary classifier to predict whether or not an applicant will be successful if funded by the venture capital group.
 
